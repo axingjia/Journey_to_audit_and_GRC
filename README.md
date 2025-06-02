@@ -203,6 +203,83 @@
 * Identity Management Audit Program
 * Identity and Access Management Audit Program
 * Implementing Cybersecurity Guideline for Small and Medium Enterprises
+* Implementing Robotic Process Automation (RPA)
+* Implementing a Privacy Protection Program: Using COBIT 5 Enablers with ISACA Privacy Principles
+* Implementing the General Data Protection Regulation
+* Implementing the NIST Cybersecurity Framework Using COBIT 2019
+* **Improving Security Awareness Using Marketing Techniques**
+* Industrial Control Systems: Primer for the Rest of Us
+* **Information Security Management Audit Program**
+* Information Systems Audit Tools and Techniques--Creating Audit Programs
+* Insights Into China's Personal Information Protection Law
+* Internal Control Using COBIT 5
+* Introduction to AI for Auditors Online Course
+* IoT Fundamentals Lab Pakckage
+* IoT Fundamentals Study Guide
+* Is Mobile the Winner in Payment Security?
+* Machine Learning for Business Enablement Online Course
+* Machine Learning: Neural Networks, Deep Learning, Large Language Models Online Course
+* **Maintaining Data Protection and Privacy Beyond GDPR Implementation**
+* Managing Security Impacts in a Multicloud Enivronment
+* Managing Third-Party Risk
+* Microsoft Exchange Server 2016 Audit Program
+* **Microsoft SQL Server Database Audit Program**
+* Mobile Computing Audit Program
+* Mobile Computing Security Audit Program
+* Mobile Payment: Risk, Security and Assurance Issues
+* Networks and Infrastructure Fundamentals Lab Package
+* Networks and Infrastructure Fundamentals Online Review Course
+* Networks and Infrastructure Fundamentals Study Guide
+* **Optimizing Risk Response**
+* **Outsourced IT Environment Audit Program**
+* **Overview of Digital Forensics**
+* PCI DSS v4.0 Audit Program
+* **Phishing Defense and Governance**
+* Physical and Environmental Security Audit Program
+* Policy Template Library Toolkit
+* **Privacy - Beyond Compliance**
+* **Privacy Regulatory Lookup Tool**
+* Privacy by Design and Default Online Course
+* Privacy by Design and Default: A Primer
+* Privacy in Practice 2021
+* Ransomware Readiness Audit Program
+* Relating the COSO Internal Control - Integrated Framework & COBIT
+* Reporting Cybersecurity Risk to the Board of Directors
+* **Rethinking Data Governance and Data Management**
+* Risk Essentials Bundle
+* Risk IT Framework, 2nd Edition
+* Risk Scenarios Starter Pack
+* Risk Scenarios Toolkit
+* Risk Scenarios: Using COBIT 5 for Risk
+* Secure Shell Protocol (SSH) Audit Program
+* Security Incident Management Audit Program
+* Security Information and Event Management: Business Benefits
+* Session Recording: Audit Collection
+* Session Recording: Emerging Technology and Cybersecurity Collection
+* Session Recording: Career/Leadership Development Collection
+* Session Recording: Cybersecurity Collection
+* Session Recording: Digital Trust Collection
+* Session Recording: Emerging Technology Collection
+* Session Recording: Governance Collection
+* Session Recording: Information Security Collection
+* **Session Recording: Privacy Management Collection**
+* Session Recording: Risk Collection
+* Session Recording: Top Rated 2024 Collection
+* Session Recordings: 2024 Variety Pack
+* Shadow IT Audit Program
+* **Social Media Audit Program**
+* Software Development Fundamentals Lab Package
+* Software Development Fundamentals Online Review Course
+* Software Development Fundamentals Study Guide
+* State of Cybersecurity
+* **The Cyberresilient Enterprise: What the Board of Directors Needs to Ask**
+* Using Risk Tolerance to Support Enterprise Strategy
+* Vendor Management: Using COBIT 5
+* eCommerce & Public Key Infrastructure Audit Program
+---END: June 2nd, 2025---
+
+
+
 
 
 
