@@ -7,20 +7,20 @@
 * 2023 Session Recording: Variety Pack--LIVE In-Person Digital Trust World
 * 5G Privacy: Addressing Risk and Threats | Digital
 * 5G Security: Addressing Risk and Threats of Mobile Network Technogies | Digital
-* A Global Look at Privacy 2020: ISACA Research Report | Digital
-* A Holistic Approach to Mitigating Harm from Insider Threats | Digital
+* **A Global Look at Privacy 2020: ISACA Research Report | Digital**
+* **A Holistic Approach to Mitigating Harm from Insider Threats | Digital**
 * A Practical Guide to the Payment Card Industry Data Security Standard | DIGITAL OR PRINT
 * A Risk-Aware Path to Cybersecurity Resilience and Maturity
 * AI Governance: Principles, Strategies and Business Alignment Course
 * AI Threat Landscape: Attacks, Risk and Security Measures Online Course
 * AI Uses in Blue Team Security
-* Achieving Data Security and Comliance
+* **Achieving Data Security and Comliance**
 * Adopting GDPR Using COBIT 5 | English OR Japanese OR Spanish
 * Advanced Persistent Threats: How to Manage the Risk To Your Business | English OR Chinese OR Japanese
 * Amazon Web Services (AWS) Audit Program | Chinese OR English OR Japanese
 * An ITAF Approach to IT Audit Advisory Services
 * Application Containers Audit Program | English OR Japanese
-* Applied Data Management for Privacy, Security and Digital Trust
+* **Applied Data Management for Privacy, Security and Digital Trust**
 * Artificial Intelligence Audit Toolkit
 * Artificial Intelligence Fundamentals Lab Package | Brazilian Portuguese OR Spanish Or 2nd Edition
 * Artificial Intelligence Fundamentals Study Guide | Brazilian Portuguese OR Spanish OR English OR Print
@@ -32,7 +32,7 @@
 * Audit Practitioner's Guide to Machine Learning, Part 2: Compliance Risk
 * Audit Artificial Intelligence
 * Audit Generative AI: Methodology, Risk Mitigation, and Best Practices
-* Audit and Knowledge Management
+* **Audit and Knowledge Management**
 * Azure Audit Program | Chinese OR English OR Japanese
 * Biometrics Audit Program
 * Blockchain - An Executive View
@@ -58,7 +58,7 @@
 * CGEIT Review Manual, 8th Edition | Digital OR Print | English OR Chinese
 * CGEIT Review Questions, Answers & Explanations, 5th Edition
 * CIS Critical Security Controls Audit Program
-* CISA Official Review Manual, 28th Edition, 2025 | French OR German OR Japanese OR Spanish OR English OR German | Digital OR Print
+* **CISA Official Review Manual, 28th Edition, 2025 | French OR German OR Japanese OR Spanish OR English OR German | Digital OR Print**
 * CISA Online Review Course 2024
 * CISA Questions, Answers & Explanations Databsae 2024 | French OR German OR Japanese OR Spanish
 * CISM Online Review Course 2024
@@ -116,7 +116,7 @@
 * Continuous Assurance Using Data Threat Model
 * Continuous Oversight in the Cloud
 * Control & Assurance in the Cloud: Using COBIT 5
-* Cybercrime: Defending Your Enterprise
+* **Cybercrime: Defending Your Enterprise**
 * Cyberrisk Quantification
 * Cybersecurity Audit Certificate Online Course
 * Cybersecurity Audit Certificate Study Guide
@@ -129,12 +129,12 @@
 * Data Science Fundamentals Lab Pakckage
 * Data Science Fundamentals Online Review
 * Data Science Fundamentals Study Guide
-* Database Audit Program
+* **Database Audit Program**
 * Defending Data Smartly
 * Demystifying Linux
 * Destination: Agile Auditing
 * DevOps: Process Maturity By Example
-* Digital Defense: Cybersecurity Basics for Everyone
+* **Digital Defense: Cybersecurity Basics for Everyone**
 * Digital Trust Ecosystem Framework - Audit Package
 * Digital Trust Ecosystem Framework - Premium Package
 * Digital Trust Ecosystem Framework - Privacy Package
@@ -143,15 +143,15 @@
 * Digital Trust Ecosystem Framwork - Security Package
 * Digital Trust Ecosystem Framework - Standard Package
 * Digital Trust: A Modern Imperative
-* Enforcing Data Privacy in the New Digital World
-* Ensuring Privacy Through Effective Data Management
+* **Enforcing Data Privacy in the New Digital World**
+* **Ensuring Privacy Through Effective Data Management**
 * Ethical Perspectives in AI: Implications, Principles, and Social Dynamics Online Course
 * European Cybersecurity Audit Program
 * European Cybersecurity Implementation: Assurance OR Overview OR Resilience OR Risk Guidance
 * GDPR Audit Program Bundle
 * GDPR Audit Program for Small and Medium Enterprises
 * GDPR Data Protection Impact Assessments
-* DGPR Data Protection Impact Assessments
+* GDPR Data Protection Impact Assessments
 * GEIT for Health Care
 * Generic Application Audit Program
 * Getting Started With Risk Management
@@ -159,7 +159,7 @@
 * Google Cloud Platform Audit Program
 * Governance Playbook: Integrating Frameworks to Tackle Cybersecurity
 * Governance Roundup - What Are You Doing About Environmental, Social & Governance Practices?
-* Guide to China's Regulatroy Cybersecurity Implementation Framework
+* Guide to China's Regulatory Cybersecurity Implementation Framework
 * Guiding Principles for Cloud Computing Adoption and Use
 * HIPAA Audit Program
 * How to Audit GDPR
@@ -170,19 +170,19 @@
 * ISACA Official Review Manual
 * ISACA AAIA Online Review Course
 * ISACA AAIA Questions, Answers & Explanations Database
-* ISACA Cybersecurity: Digital Forensics Online Course
-* ISACA Cybersecurity: Penetration Testing Online Course
+* **ISACA Cybersecurity: Digital Forensics Online Course**
+* **ISACA Cybersecurity: Penetration Testing Online Course**
 * ISACA Cybersecurity: Threat Hunting Online Course
 * ISACA Cybersecurity: Vulnerability, Identification & Analysis Online Course
 * ISACA Foundation Donation
 * ISACA Foundation Hoodie 2XLarge OR 3XLarge OR Large OR Medium OR Small OR Xlarge
-* ISACA Journal Subscription
-* ISACA Privacy Principles and Program Management Guide
+* **ISACA Journal Subscription**
+* **ISACA Privacy Principles and Program Management Guide**
 * ISACA Tech Brief: 3D Printing
 * ISACA Tech Brief: Blockchain Basics
 * ISACA Tech Brief: Cloud Access Security Brokers
 * ISACA Tech Brief: Networked Biomedical Device Security
-* ISACA Tech Brief: The Darknet
+* **ISACA Tech Brief: The Darknet**
 * ISACA Virtual Conference Session Recording: EMEA Collection
 * ISACA Virtual Conference Sesssion Recording: Asia-Pac Collection
 * ISACA Virtual Conference Session Recording: Americas Collection
@@ -193,7 +193,7 @@
 * IT Business Continuity Audit Program
 * IT Control Objectives for BASEL II
 * IT Control Objectives for Sarbanese-Oxley, 4th Edition
-* IT Risk Fundamentals Online Course
+* **IT Risk Fundamentals Online Course**
 * IT Risk Fundamentals Study Guide
 * IT Risk Management Audit Program
 * IT Risk Management Essentials
