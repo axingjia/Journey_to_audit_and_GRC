@@ -1,5 +1,5 @@
 # Disclaimer
-* This repo follows and aligns with privacy as part of the principles from ISACA. All information in this repo are coming from public information.
+* This repo follows and aligns with privacy as part of the principles from ISACA. All information in this repo are coming from public information. No Proprietary information is recorded in this repo
 * The purpose of Chapter **Store** is so you can buy everything in one go so it saves the 65USD Delivery Fee
 
 ## Store
