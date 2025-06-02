@@ -1,5 +1,6 @@
 # Disclaimer
 * This repo follows and aligns with privacy as part of the principles from ISACA. All information in this repo are coming from public information.
+* The purpose of Chapter **Store** is so you can buy everything in one go so it saves the 65USD Delivery Fee
 
 ## Store
 * 2023 Session Recording: Top Ten Sessions
